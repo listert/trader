@@ -1,4 +1,4 @@
-function [datastruct] = get1mOHLCV(symbol1,symbol2,day)
+function [datastruct] = get_Cex_1mOHLCV(symbol1,symbol2,day)
 %GET1MOHLCV Obtain CEX.io 1m OHLCV data for a particular day.
 %   INPUT
 %   =======================================================================
